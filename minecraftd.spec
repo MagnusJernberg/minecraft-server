@@ -1,7 +1,7 @@
-%define  pkgver	1.7.2
+%define  pkgver	1.8
 
 Name:           minecraftd
-Version:    	0.0.2    
+Version:    	0.0.3    
 Release:        1%{?dist}
 Summary:       	systemd service for minecraft server 
 
