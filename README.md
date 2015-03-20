@@ -14,4 +14,4 @@ To install:
 
 And then you have your service up and running.
 
-[a relative link] (minecraftd.service)
+[minecraft service] (minecraftd.service)
