@@ -14,4 +14,4 @@ To install:
 
 And then you have your service up and running.
 
-[minecraft service] (minecraftd.service)
+[Readme test] (ny_read/README.md)
