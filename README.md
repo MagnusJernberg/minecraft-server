@@ -13,3 +13,5 @@ To install:
 * systemctl start minecraftd.service
 
 And then you have your service up and running.
+
+[a relative link] (minecraftd.service)
